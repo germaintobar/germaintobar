@@ -4,7 +4,7 @@
 ```
 
 ### 🧠 Sobre mí
-- 💻 Principalmente enfocado en el desarrollo backend (APIs, bases de datos, script)
+- 💻 Principalmente enfocado en el desarrollo backend (APIs, bases de datos, script) y aplicaciones de escritorio
 - 🌱 Aprendiendo frontend para convertirme en un desarrollador fullstack
 - 🐕 Fan de los shibas
 
