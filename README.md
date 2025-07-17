@@ -16,9 +16,6 @@
 - Aprendiendo: NodeJS, React, TailwindCSS, Amazon Web Services
 
 <br>
-<br>
-
-
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="C#" width="40" title="C#" />
